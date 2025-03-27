@@ -14,6 +14,8 @@ The goal is to provide DeFi researchers, quant developers, and protocol designer
 📈 **Try it live on Google Colab**  
 [Open Notebook](https://colab.research.google.com/drive/110hccZ7ovWjhFUVmDAHWOr4yAYJizMe3)
 
+📄 Read the full research paper (PDF): Pool_Value_Replication__CPM__and_Impermanent_Loss_Hedging.pdf
+
 ---
 
 ## Contents
@@ -21,6 +23,7 @@ The goal is to provide DeFi researchers, quant developers, and protocol designer
 - `hedging_simulation.ipynb` – main notebook with simulations
 - `data/` – placeholder for option price inputs if using real data
 - `README.md` – documentation and references
+- `colabs` - deprecated files and back ups 
 
 ---
 
